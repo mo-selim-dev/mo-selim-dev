@@ -4,8 +4,8 @@
 
 Hi! I'm **Mohammed Selim**, a passionate iOS developer specializing in building high-quality apps using Swift and SwiftUI. With over 2 years of experience, I focus on creating seamless and intuitive user experiences using the latest iOS frameworks and technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/) <!-- Replace with your LinkedIn URL -->
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/your-username) <!-- Replace with your GitHub URL -->
+[![LinkedIn](https://www.linkedin.com/in/mohammed-selim-67bbb9243/) 
+[![GitHub](https://github.com/mo-selim-dev)](https://github.com/your-username) 
 
 ---
 

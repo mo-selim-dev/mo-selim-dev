@@ -1,6 +1,6 @@
 # Mohammed Selim | iOS Developer
 
-![Portfolio Banner](./images/banner.png)
+![Portfolio Banner](./iOS-developer.png)
 
 Hi! I'm **Mohammed Selim**, an iOS developer specializing in Swift, SwiftUI, and creating intuitive mobile apps. Passionate about building performance-optimized applications that provide seamless user experiences.
 

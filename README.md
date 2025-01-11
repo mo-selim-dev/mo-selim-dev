@@ -21,17 +21,17 @@ Hi! I'm **Mohammed Selim**, an iOS developer specializing in Swift, SwiftUI, and
 
 ## 📱 Featured Projects
 
-### MyApp - E-Commerce App
-![MyApp](./images/myapp.png)
-- **Description**: E-commerce app using SwiftUI, Firebase, and Stripe for payments.
-- **Key Features**: User authentication, shopping cart, product browsing.
-- [View Project](https://github.com/mo-selim-dev/myapp)
+### OnlinGroceryStore - Grocery Shopping App  
+**Under construction**  
+- **Description**: Enhanced the grocery shopping experience, reducing checkout time by 30%, without online payment feature.
+- **Key Technologies**: MVVM, Combine, URLSession, API integration, secure checkout.
+- [View Project](https://github.com/mo-selim-dev/OnlinGroceryStore)
 
-### Taskly - Task Management App
-![Taskly](./images/taskly.png)
-- **Description**: Task management app using Core Data and iCloud for syncing.
-- **Key Features**: Task creation, editing, deletion, and syncing.
-- [View Project](https://github.com/mo-selim-dev/taskly)
+### TwinkChat - Real-time Chat App  
+**Under construction**  
+- **Description**: Improved real-time communication, reducing message delivery latency by 25%.
+- **Key Features**: Firebase Firestore for real-time storage, optimized query performance.
+- [View Project](https://github.com/mo-selim-dev/TwinkChat)
 
 ---
 
@@ -54,7 +54,6 @@ Hi! I'm **Mohammed Selim**, an iOS developer specializing in Swift, SwiftUI, and
 - [LinkedIn](https://www.linkedin.com/in/mohammed-selim-67bbb9243/)
 - [GitHub](https://github.com/mo-selim-dev)
 - [Email](mailto:mo.selim.dev@gmail.com)
-- [Phone](tel:+201017359902)
 
 ---
 

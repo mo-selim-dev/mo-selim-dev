@@ -1,8 +1,8 @@
 # Mohammed Selim | iOS Developer
 
-![Portfolio Banner](./images/banner.png) <!-- Replace with your banner image path -->
+![Portfolio Banner](./images/banner.png)
 
-Hi! I'm **Mohammed Selim**, a passionate iOS developer specializing in building high-quality apps using Swift and SwiftUI. With over 2 years of experience, I focus on creating seamless and intuitive user experiences using the latest iOS frameworks and technologies.
+Hi! I'm **Mohammed Selim**, an iOS developer specializing in Swift, SwiftUI, and creating intuitive mobile apps. Passionate about building performance-optimized applications that provide seamless user experiences.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-selim-67bbb9243/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/mo-selim-dev)
@@ -10,81 +10,53 @@ Hi! I'm **Mohammed Selim**, a passionate iOS developer specializing in building 
 ---
 
 ## 🛠 Skills & Technologies
-
 - **Languages**: Swift, Objective-C
 - **Frameworks**: SwiftUI, UIKit, Combine
-- **Tools**: Xcode, Git, Cocoapods, Fastlane
-- **APIs**: RESTful APIs, GraphQL, Firebase
-- **Architectures**: MVVM, VIPER, Clean Architecture
-- **Testing**: XCTest, TDD, Unit Testing
+- **APIs**: RESTful APIs, Firebase, GraphQL
+- **Tools**: Xcode, Git, Fastlane, Cocoapods
+- **Architectures**: MVVM, Clean Architecture
 - **CI/CD**: GitHub Actions, Bitrise
+
+---
 
 ## 📱 Featured Projects
 
-### Project 1: MyApp - E-Commerce App
+### MyApp - E-Commerce App
+![MyApp](./images/myapp.png)
+- **Description**: E-commerce app using SwiftUI, Firebase, and Stripe for payments.
+- **Key Features**: User authentication, shopping cart, product browsing.
+- [View Project](https://github.com/mo-selim-dev/myapp)
 
-![MyApp](./images/myapp.png) <!-- Replace with your project image -->
-**Description**: A fully-featured e-commerce iOS app built using SwiftUI, integrated with Firebase for real-time updates and Stripe for payment processing.
-- **Key Features**:
-  - User authentication (Firebase)
-  - Product browsing and searching
-  - Shopping cart with payment integration (Stripe)
-- **Technologies**: SwiftUI, Firebase, Combine
-
-[View Project](https://github.com/your-username/myapp) <!-- Replace with your project link -->
-
----
-
-### Project 2: Taskly - Task Management App
-
-![Taskly](./images/taskly.png) <!-- Replace with your project image -->
-**Description**: A simple yet powerful task management app that helps users organize their to-do lists. Implements local data persistence using Core Data and cloud syncing with iCloud.
-- **Key Features**:
-  - Task creation, editing, and deletion
-  - Local storage with Core Data
-  - Sync with iCloud across devices
-- **Technologies**: SwiftUI, Core Data, CloudKit
-
-[View Project](https://github.com/your-username/taskly) <!-- Replace with your project link -->
+### Taskly - Task Management App
+![Taskly](./images/taskly.png)
+- **Description**: Task management app using Core Data and iCloud for syncing.
+- **Key Features**: Task creation, editing, deletion, and syncing.
+- [View Project](https://github.com/mo-selim-dev/taskly)
 
 ---
 
-## 👨‍💻 Open Source Contributions
-
-- **SwiftLint Plugin**: Added new rules for enforcing Swift best practices.
-  [View Contribution](https://github.com/realm/SwiftLint/pull/123) <!-- Example link, replace with real URL -->
-
----
-
-## 📷 Screenshots
-
-| Project 1 | Project 2 | 
-|:---------:|:---------:|
-| ![MyApp](./images/myapp-screenshot.png) | ![Taskly](./images/taskly-screenshot.png) |
+## 👨‍💻 Experience
+### Freelance Mobile App Developer (iOS)  
+*January 2022 – Present*  
+- Developed iOS apps for e-commerce, news, and entertainment sectors.
+- Integrated Firebase, SwiftData, and APIs for real-time features and persistent storage.
 
 ---
 
-## 🛠 Tools I Use
-
-| **Tool**       | **Description**                                       |
-|----------------|-------------------------------------------------------|
-| Xcode          | My go-to IDE for iOS development                      |
-| GitHub         | Version control and collaboration for my projects     |
-| Swift Package Manager | Dependency management for Swift projects       |
-| Fastlane       | Automates releases, code signing, and beta distribution |
+## 📚 Education & Courses
+- **Mobile App Development Bootcamp** – Tuwaiq Academy
+- **iOS Application Development** – Udemy
+- **Flutter Clean Architecture** – Udemy
 
 ---
 
-## 🔗 Connect With Me
-
+## 📞 Contact
 - [LinkedIn](https://www.linkedin.com/in/mohammed-selim-67bbb9243/)
 - [GitHub](https://github.com/mo-selim-dev)
-- [Email](mailto:your.email@example.com) <!-- Replace with your email -->
-
-Feel free to connect or collaborate with me on any iOS development projects!
+- [Email](mailto:mo.selim.dev@gmail.com)
+- [Phone](tel:+201017359902)
 
 ---
 
 ## 📄 License
-
 This portfolio and all associated projects are licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.

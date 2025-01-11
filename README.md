@@ -1,6 +1,5 @@
 # Mohammed Selim | iOS Developer
 
-
 Hi! I'm **Mohammed Selim**, an iOS developer specializing in Swift, SwiftUI, and creating intuitive mobile apps. Passionate about building performance-optimized applications that provide seamless user experiences.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-selim-67bbb9243/)
